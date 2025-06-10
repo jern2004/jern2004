@@ -15,9 +15,7 @@
 ---
 
 ### 📂 Featured Projects
-- 🔐 [SecureCLI-Pass](https://github.com/J-Ern/SecureCLI-Pass): A command-line password manager using AES + Argon2
-- 🔭 [VulnFix-BlogApp](https://github.com/J-Ern/VulnFix-BlogApp): A secure-by-design blog app with real-world vulnerabilities patched
-- 📊 [LiverData-Analyzer](https://github.com/J-Ern/LiverData-Analyzer): R-based medical dataset analyzer for liver cancer biomarker research
+- 🔭 [VulnFix-BlogApp](https://github.com/jern2004/VulnFix-BlogApp): A secure-by-design blog app with real-world vulnerabilities patched
 
 ---
 
