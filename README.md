@@ -44,8 +44,10 @@
 
 ### 📈 GitHub Stats
 
-![J‑Ern's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Ern&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=J-Ern&theme=dark)](https://git.io/streak-stats)
+![J‑Ern's GitHub stats](https://github-readme-stats.vercel.app/api?username=jern2004&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jern2004&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jern2004&theme=dark)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jern2004&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
