@@ -7,5 +7,27 @@
 🧠 I’m always seeking new challenges that push my limits and help me grow.  
 🚀 Open to open-source collaboration, internships, and research opportunities in cybersecurity and software engineering.
 
-Let’s connect and build something secure together!
+### 🛠️ Tech Stack
+- Languages: C, Python, JavaScript, Bash
+- Tools: Git, Linux, VS Code, Wireshark, Burp Suite, Metasploit
+- Concepts: Secure Coding, Cryptography, Threat Modelling, Network Security
 
+---
+
+### 📂 Featured Projects
+- 🔐 [SecureCLI-Pass](https://github.com/J-Ern/SecureCLI-Pass): A command-line password manager using AES + Argon2
+- 🔭 [VulnFix-BlogApp](https://github.com/J-Ern/VulnFix-BlogApp): A secure-by-design blog app with real-world vulnerabilities patched
+- 📊 [LiverData-Analyzer](https://github.com/J-Ern/LiverData-Analyzer): R-based medical dataset analyzer for liver cancer biomarker research
+
+---
+
+### 🧠 Currently Learning
+- Advanced C for system security
+- OWASP Top 10 vulnerabilities
+- Secure web development with Flask
+
+---
+
+### 📫 Connect with Me
+- Email: siajern@gmail.com
+- LinkedIn: [linkedin.com/in/j-ern](https://www.linkedin.com/in/j-ern-sia-624964188/)
