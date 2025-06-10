@@ -7,25 +7,46 @@
 🧠 I’m always seeking new challenges that push my limits and help me grow.  
 🚀 Open to open-source collaboration, internships, and research opportunities in cybersecurity and software engineering.
 
+---
+
 ### 🛠️ Tech Stack
-- Languages: C, Python, JavaScript, Bash
-- Tools: Git, Linux, VS Code, Wireshark, Burp Suite, Metasploit
-- Concepts: Secure Coding, Cryptography, Threat Modelling, Network Security
+
+- **Languages:** C, Python, JavaScript, Bash, Java, R programming 
+- **Cybersecurity Tools:** Wireshark, Burp Suite, Metasploit, Nmap, Clang, Flawfinder
+- **Frameworks:** Flask
+- **Platforms:** Linux (Kali, Debian, Vagrant), GitHub, Git, VS Code, Jupyter Notebook
+- **Areas of Interest:** Secure coding, Full stack development, Penetration Testing, Cloud security and a Little bit of Data Analysis
 
 ---
 
 ### 📂 Featured Projects
-- 🔭 [VulnFix-BlogApp](https://github.com/jern2004/VulnFix-BlogApp): A secure-by-design blog app with real-world vulnerabilities patched
+
+- 🔭 [VulnFix-BlogApp](https://github.com/jern2004/VulnFix-BlogApp)  
+  A secure-by-design blog platform built with Flask. Demonstrates secure coding practices by patching real-world vulnerabilities (XSS, CSRF, SQLi).
 
 ---
 
 ### 🧠 Currently Learning
-- Advanced C for system security
-- OWASP Top 10 vulnerabilities
-- Secure web development with Flask
+
+- 🧬 Advanced C and memory safety
+- 🛡️ OWASP Top 10 vulnerabilities
+- 🌐 Secure web development with Flask
+- 🔐 Identity & Access Management (IAM)
 
 ---
 
 ### 📫 Connect with Me
-- Email: siajern@gmail.com
-- LinkedIn: [linkedin.com/in/j-ern](https://www.linkedin.com/in/j-ern-sia-624964188/)
+
+- 📧 Email: `siajern@gmail.com`
+- 💼 LinkedIn: [linkedin.com/in/j-ern](https://linkedin.com/in/j-ern)
+
+---
+
+### 📈 GitHub Stats
+
+![J‑Ern's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Ern&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=J-Ern&theme=dark)](https://git.io/streak-stats)
+
+---
+
+💬 *“I believe real security starts with clean code.”*
