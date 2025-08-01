@@ -24,7 +24,8 @@
 - 🔭 [VulnFix-BlogApp](https://github.com/jern2004/VulnFix-BlogApp)  
   A secure-by-design blog platform built with Flask. Demonstrates secure coding practices by patching real-world vulnerabilities (XSS, CSRF, SQLi).
 - ☁️ Automated Architecture Diagram and Cost Estimation Multi-Agent System (https://github.com/mikrozaika/CITS3200-50)
-  A multi-agent AI system that generates cloud architecture diagrams and estimates monthly AWS/Azure costs based on user input. Includes design, cost, and diagram agents coordinated by a chatbot-style interface. Built for a third-year cybersecurity project to simplify cloud infrastructure planning and visualization.
+  A multi-agent AI system that generates cloud architecture diagrams and estimates monthly AWS/Azure costs based on user input. Includes design, cost, and diagram agents coordinated by a
+  chatbot-style interface. Built for a third-year cybersecurity project to simplify cloud infrastructure planning and visualization.
 ---
 
 ### 🧠 Currently Learning
