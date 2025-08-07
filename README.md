@@ -1,7 +1,7 @@
 ## Hi, I'm J‑Ern 👋
 
 🎓 I'm a third-year Cybersecurity student at the University of Western Australia, minoring in Data Science.  
-💻 I’m passionate about secure software development, ethical hacking, and system-level programming.  
+💻 I’m passionate about secure software development, and anything related to cybersecurity.  
 🔒 I enjoy building tools that make security intuitive, scalable, and impactful.  
 📚 Currently expanding my skills in C, Python, JavaScript, and Linux security.  
 🧠 I’m always seeking new challenges that push my limits and help me grow.  
