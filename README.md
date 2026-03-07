@@ -43,7 +43,7 @@
 ### 📫 Connect with Me
 
 - 📧 Email: `siajern@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/j-ern](https://linkedin.com/in/j-ern)
+- 💼 LinkedIn: (https://www.linkedin.com/in/j-ern-sia-624964188/)
 
 ---
 
