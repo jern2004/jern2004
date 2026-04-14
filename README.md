@@ -46,12 +46,3 @@
 - 💼 LinkedIn: (https://www.linkedin.com/in/j-ern-sia-624964188/)
 
 ---
-
-### 📊 GitHub Stats
-
-![J‑Ern's GitHub stats](https://github-readme-stats.vercel.app/api?username=jern2004&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jern2004&layout=compact&theme=radical)
-
----
-
-💬 *“I believe real security starts with clean code.”*
