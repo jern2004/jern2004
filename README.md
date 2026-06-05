@@ -33,4 +33,4 @@ Passionate about AI, cybersecurity, Cloud, and exploring how technology drives b
 
 ### Connect
 - Email: siajern@gmail.com
-- LinkedIn: https://www.linkedin.com/in/j-ern-sia-624964188/
+- LinkedIn: https://www.linkedin.com/in/j-ern-sia/
