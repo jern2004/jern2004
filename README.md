@@ -1,7 +1,7 @@
 # Hi, I'm J-Ern (Jay)
 
 Final-year Cybersecurity & Computer Science student at the University of Western Australia.
-Passionate about secure software development, cloud security, and exploring how technology drives business outcomes.
+Passionate about AI, cybersecurity, Cloud, and exploring how technology drives business outcomes.
 
 ---
 
